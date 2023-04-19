@@ -104,14 +104,17 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 ![EX 7 A](https://user-images.githubusercontent.com/94168395/233007539-c2dd3397-c9fe-4892-bce7-367649398865.png)
 
-
+![EX 7 B](https://user-images.githubusercontent.com/94168395/233009711-350572cb-1963-43c4-9f08-eb10d5fb539e.png)
 
 
 ### LAPLACIAN EDGE DETECTOR
+![EX 7 C](https://user-images.githubusercontent.com/94168395/233008832-1b972f82-0a30-434b-9723-a8eb76c4cab3.png)
 
 
 
 ### CANNY EDGE DETECTOR
+
+![EX 7 D](https://user-images.githubusercontent.com/94168395/233009647-64a7cae8-cf96-4daf-b142-ea534aad5399.png)
 
 
 
